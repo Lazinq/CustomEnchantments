@@ -1,0 +1,30 @@
+name: SalvosEnchants
+author: Lazinq
+version: 1.0
+api-version: 1.16
+main: me.Lazinq.CustomEnchants.CustomEnchants
+
+commands:
+  agility:
+  autojump:
+  automelting:
+  autospeed:
+  blindness:
+  excavation:
+  explosivearrows:
+  flashingarrows:
+  guards:
+  iceaspect:
+  life:
+  lifeleech:
+  luck:
+  multishoot:
+  nightvision:
+  regeneration:
+  rejuvination:
+  slowness:
+  telepathy:
+  waterbreathing:
+  wellfed:
+  witheredarrows:
+  withering:

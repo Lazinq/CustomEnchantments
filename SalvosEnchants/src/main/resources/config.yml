@@ -1,0 +1,136 @@
+#loreName: lore of the enchantment
+#chance: chance to get it from the enchantmenttable
+#time-seconds: for how long an effect should stay
+#add-chance: chance to add an effect
+#time-seconds duration for an effect
+#give-perm the permission needed to add an enchantment to an item using a command
+
+Agility:
+  loreName: '&7Agility I'
+  chance: 15
+  give-perm: 'Agility.give'
+#
+AutoJump:
+  loreName: '&7AutoJump I'
+  chance: 15
+  give-perm: 'AutoJump.give'
+#
+AutoMelting:
+  loreName: '&7AutoMelting I'
+  chance: 15
+  give-perm: 'AutoMelting.give'
+#
+AutoSpeed:
+  loreName: '&7AutoSpeed I'
+  chance: 15
+  give-perm: 'AutoSpeed.give'
+#
+Blindness:
+  loreName: '&7Blindness I'
+  chance: 15
+  add-chance: 7
+  time-seconds: 7
+  give-perm: 'Blindness.give'
+#
+Excavation:
+  loreName: '&7Excavation I'
+  chance: 15
+  give-perm: 'Excavation.give'
+#
+ExplosiveArrows:
+  loreName: '&7ExplosiveArrows I'
+  chance: 15
+  explode-chance: 100
+  explode-size: 1
+  give-perm: 'ExplosiveArrows.give'
+#
+FlashingArrows:
+  loreName: '&7FlashingArrows I'
+  chance: 15
+  add-chance: 7
+  time-seconds: 7
+  give-perm: 'FlashingArrows.give'
+#
+Guards:
+  loreName: '&7Guards I'
+  chance: 15
+  nameTag: "&b&lGuards"
+  nameTagEnabled: true
+  RemoveAfterSeconds: 40
+  give-perm: 'Guards.give'
+#
+IceAspect:
+  loreName: '&7IceAspect I'
+  chance: 15
+  add-chance: 7
+  time-seconds: 7
+  give-perm: 'IceAspect.give'
+#
+Life:
+  loreName: '&7Life I'
+  chance: 15
+  give-perm: 'Life.give'
+#
+LifeLeech:
+  loreName: '&7LifeLeech I'
+  chance: 15
+  add-chance: 7
+  remove-amount-half-hearts-chance1: 2
+  remove-amount-half-hearts-chance2: 4
+  give-perm: 'LifeLeech.give'
+#
+Luck:
+  loreName: '&7Luck I'
+  chance: 15
+  add-chance: 100
+  give-perm: 'Luck.give'
+#
+MultiShoot:
+  loreName: '&7MultiShoot I'
+  chance: 15
+  add-chance: 7
+  give-perm: 'MultiShoot.give'
+#
+NightVision:
+  loreName: '&7Night Vision I'
+  chance: 15
+  give-perm: 'NightVision.give'
+#
+Regeneration:
+  loreName: '&7Regeneration I'
+  chance: 15
+  give-perm: 'Regeneration.give'
+#
+Rejuvination:
+  loreName: '&7Rejuvination I'
+  chance: 15
+  give-perm: 'Rejuvination.give'
+#
+Telepathy:
+  loreName: '&7Telepathy I'
+  chance: 15
+  give-perm: 'Telepathy.give'
+#
+WaterBreathing:
+  loreName: '&7WaterBreathing I'
+  chance: 15
+  give-perm: 'WaterBreathing.give'
+#
+WellFed:
+  loreName: '&7WellFed I'
+  chance: 15
+  give-perm: 'WellFed.give'
+#
+WitheredArrows:
+  loreName: '&7WitheredArrows I'
+  chance: 15
+  add-chance: 7
+  time-seconds: 7
+  give-perm: 'WitheredArrows.give'
+#
+Withering:
+  loreName: '&7Withering I'
+  chance: 15
+  add-chance: 7
+  time-seconds: 7
+  give-perm: 'Withering.give'
